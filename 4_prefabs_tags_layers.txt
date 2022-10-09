@@ -1,0 +1,14 @@
+- Prefab: is like a template from which we can take instances.
+In Assets we create a folder called Prefabs.
+We drag our Cube from the the Panel Hierarchy, the Cube has a blue icon,
+the blue icon means it is a prefab.
+Dragging the prefab to the Scene lets us instantiate the object.
+On the right in the Inspector, we can click on Open to change the prefab.
+It is recommended to use prefabs when something is used a lot.
+You can modify a single clone and it doesn't affect the others.
+
+- Tags: way of identifying a GameObject.
+A bunch of enemies would share a Tag.
+
+- Layer: used for grouping GameObjects.
+We can apply an effect only to objects that belong to a Layer.

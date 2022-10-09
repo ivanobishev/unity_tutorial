@@ -1,0 +1,10 @@
+Let's create a Sphere, drag it in the panel to the Cube.
+If we move the Cube, the Sphere moves with it.
+
+We can create an empty GameObject called Environment,
+whose location must be 0,0,0.
+This empty GameObject only has one component: Transform,
+that specifies the position, rotation and scale.
+
+In the Assets folder create another folder called Materials.
+Create a Material, assign it a colour and drag it to the Cube.

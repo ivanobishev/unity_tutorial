@@ -1,0 +1,15 @@
+There is a Learning button, click on it when you have more experienced, not right now.
+
+https://unity.com
+Click on "Get Started" -> Student and hobbyist -> Personal -> Download.
+Now we have Unity Hub.
+
+Unity Hub layout:
+- Projects.
+- Installs: our Unity versions, if we start a project with a version, it is better to...
+...stick in it, because the project update can be hard.
+- Learn: tutorials.
+- Community: forums where likely your doubts have already been solved by somebody else.
+
+We click on Projects to create a new one.
+It's better to start with 3D.

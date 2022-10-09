@@ -1,0 +1,16 @@
+Panels are on the left.
+At the bottom we have Scenes, similar to levels of a videogame.
+
+- Game Object: element of a scene.
+In the first Sample Scene we have 2 game objects: Main Camera and Directional Light.
+The folder "Assets" has our audio files, textures, etc.
+
+GameObject -> 3d Object -> Cube.
+With a right click and dragging on the scene we can look around.
+With the mouse scroll we can zoom in and out.
+With the right click pressed, we can use they keys WASD to move.
+On the left of our screen view there are the navigation buttons.
+
+Let's select the Cube.
+On the right it's in inspector that states its location.
+We can drag a cube axis to move it.
